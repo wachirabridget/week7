@@ -1,0 +1,57 @@
+# --- Unity core ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Pp]lugins/Editor/JetBrains*
+
+# Crash/Report files
+sysinfo.txt
+
+# IDE/OS
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Unity cache & generated
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+
+# Rider/JetBrains
+*.iml
+
+# Addressables & Burst cache
+[Bb]urstCache/
+[Aa]ddressables*/**/bin/
+[Aa]ddressables*/**/obj/
+
+# Collaborate / Plastic leftover
+.collab/
+.gl/
+PlasticSCM.yml
+
+# Optional: keep builds out of repo
+# If you use a custom build folder, add it here:
+# MyBuilds/
